@@ -71,7 +71,7 @@ article p {
     font-weight: 200;
 }
 
-img {
+img, svg {
     position: absolute;
     bottom: 15px;
     right: 15px;
